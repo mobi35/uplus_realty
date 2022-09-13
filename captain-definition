@@ -1,7 +1,4 @@
 {
     "schemaVersion": 2,
-    "dockerFilePath": "./infra/docker/php/Dockerfile",
-    "dockerfileLines": [
-  
-    ]
+    "dockerfilePath": "./Dockerfile"
 }
